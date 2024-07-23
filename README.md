@@ -1,1 +1,1 @@
-# Note-Maker
+Developed a note-making application using React. Implemented features to add and delete notes, managing state with hooks. Built reusable components including Header, Footer, CreateArea, and Note, ensuring a clean and modular code structure. Styled the application using CSS for an enhanced user interface.
